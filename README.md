@@ -83,18 +83,14 @@ The project transforms raw beverage data into actionable insights using **Power 
 - Cleaned and transformed the data using **Power Query**.
 - Handled missing values and corrected data types.
 
-### 2. Data Modeling
-- Built relationships between tables.
-- Organized the data model for efficient reporting.
-
-### 3. Data Analysis
+### 2. Data Analysis
 - Created DAX measures for:
   - Average Calories
   - Average Sugar
   - Average Caffeine
   - Beverage Counts
 
-### 4. Dashboard Development
+### 3. Dashboard Development
 - Designed an interactive Starbucks-themed dashboard.
 - Added dynamic slicers and analytical visualizations.
 
